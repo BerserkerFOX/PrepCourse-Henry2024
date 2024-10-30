@@ -1,2 +1,2 @@
-# PrepCourse-Henry2024
-repositorio de henry para testeos y el prepcourse
+Hola ! Soy Santiago Aubel.
+este archivo y repositorio son una prueba de como clonar y modificar correctamente un repositorio de GitHub.
